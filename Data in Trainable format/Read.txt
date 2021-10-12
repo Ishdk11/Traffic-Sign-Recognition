@@ -1,2 +1,0 @@
-This directory has all the data, training and testing, in the right format.
-Use this data if you do not want to sift through the entire data set, and clean it.
